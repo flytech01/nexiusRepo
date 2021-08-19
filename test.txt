@@ -3,7 +3,7 @@
 = nem kerül fel a változás
 
 2 követés nincs bekapcsolva
-    ment, comit és push
+    ment, commit és push
 = nem kerül fel a változás
 
 3 követés bekapcsolva
@@ -12,8 +12,3 @@
 
 4 követés bekapcsolva
     ment, commit, push
-
-
-
-
-
