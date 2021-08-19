@@ -13,6 +13,5 @@
 4 követés bekapcsolva
     ment, commit, push
 
-felr
-r
+5 reset C:\Munka\PROG\TEST\git_test\nexiusRepo\test.txt
 
