@@ -6,3 +6,12 @@ teszt
 2
 4
 
+1 követés nincs bekapcsolva
+    ment és push
+= nem kerül fel a változás
+
+2 követés nincs bekapcsolva
+    ment, comit és push
+
+
+
