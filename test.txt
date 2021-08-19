@@ -1,17 +1,19 @@
-ez a tesztfájlom
-
-sa
-újabb teszt
-teszt
-2
-4
-
 1 követés nincs bekapcsolva
     ment és push
 = nem kerül fel a változás
 
 2 követés nincs bekapcsolva
     ment, comit és push
+= nem kerül fel a változás
+
+3 követés bekapcsolva
+    ment és push
+= nem kerül fel a változás
+
+4 követés bekapcsolva
+    ment, commit, push
+
+
 
 
 
