@@ -1,7 +1,7 @@
 1 követés nincs bekapcsolva
     ment és push
 = nem kerül fel a változás
-/*
+
 2 követés nincs bekapcsolva
     ment, commit és push
 = nem kerül fel a változás
@@ -12,4 +12,4 @@
 
 4 követés bekapcsolva
     ment, commit, push
-*/
+
