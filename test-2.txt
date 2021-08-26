@@ -10,3 +10,6 @@ szeva test
 9. m
 10. ment
 11. mod
+12. mod
+
+13.mod
