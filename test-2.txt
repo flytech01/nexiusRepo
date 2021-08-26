@@ -8,3 +8,5 @@ szeva test
 8. mod
 
 9. m
+10. ment
+11. mod
